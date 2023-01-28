@@ -1,3 +1,9 @@
 ﻿  calculate.cpp
-C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(66,21): warning C4101: num_temp: неиспользованная локальная переменная
-  calculate.vcxproj -> C:\Users\Дарья\source\repos\calculate\x64\Debug\calculate.exe
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(24,24): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(32,24): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(40,24): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(52,28): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(60,28): error C2296: "%": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(60,28): error C2297: "%": недопустимо, поскольку тип правого операнда — "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(61,24): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Дарья\source\repos\calculate\calculate\calculate.cpp(76,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных

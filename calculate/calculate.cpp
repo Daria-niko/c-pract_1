@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
     int operation;
-    int rez;
-    int num1;
-    int num2;
+    double rez;
+    double num1;
+    double num2;
     setlocale(LC_ALL, "Russian");
     cout << "Калькулятор\n";
     while (true) {
